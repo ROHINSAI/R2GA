@@ -1,0 +1,62 @@
+{
+  "Epigenomics-24": {
+    "GeneticScheduler1": {
+      "makespan": 2336.69,
+      "system_util": 0.505007795927858,
+      "workload_balance": 512.6300000000001,
+      "energy": 17720.14
+    },
+    "HGAScheduler1": {
+      "makespan": 2372.65,
+      "system_util": 0.5001987931918599,
+      "workload_balance": 607.99,
+      "energy": 17720.149999999998
+    },
+    "NGAScheduler1": {
+      "makespan": 2323.39,
+      "system_util": 0.5058298434614937,
+      "workload_balance": 611.2699999999998,
+      "energy": 17720.17
+    }
+  },
+  "Ligo-30": {
+    "GeneticScheduler1": {
+      "makespan": 662.69,
+      "system_util": 0.8680680257737404,
+      "workload_balance": 28.190000000000055,
+      "energy": 6617.059999999999
+    },
+    "HGAScheduler1": {
+      "makespan": 662.69,
+      "system_util": 0.8738550453454857,
+      "workload_balance": 38.05000000000007,
+      "energy": 6617.049999999998
+    },
+    "NGAScheduler1": {
+      "makespan": 663.3399999999999,
+      "system_util": 0.8625993708605945,
+      "workload_balance": 50.059999999999945,
+      "energy": 6617.049999999999
+    }
+  },
+  "Montage-25": {
+    "GeneticScheduler1": {
+      "makespan": 28.15,
+      "system_util": 0.6216696269982239,
+      "workload_balance": 10.959999999999997,
+      "energy": 227.71000000000006
+    },
+    "HGAScheduler1": {
+      "makespan": 28.15,
+      "system_util": 0.6113676731793961,
+      "workload_balance": 11.21,
+      "energy": 227.73000000000005
+    },
+    "NGAScheduler1": {
+      "makespan": 28.119999999999997,
+      "system_util": 0.6126718824087246,
+      "workload_balance": 10.929999999999996,
+      "energy": 227.74999999999997
+    }
+  }
+}

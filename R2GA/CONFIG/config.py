@@ -1,0 +1,18 @@
+
+
+
+PRECISION = 1
+
+ALPHA = 0.9
+
+BETA = 1.0 - ALPHA
+
+INF = float("inf")
+
+F = False
+
+T = True
+
+SHOW_ORIGINAL_SCHEDULING_LIST = True
+
+SHOW_OPTIMIZED_SCHEDULING_LIST = False
